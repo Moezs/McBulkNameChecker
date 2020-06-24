@@ -1,0 +1,28 @@
+Hello guys so today i was bored so i thought why not make a script to make the method in last video easier 
+so here it is..
+its 2 python scripts to make it easy and snipe / find og minecraft names 
+first you need to download python 
+after that you need to go to your python folder /scripts 
+copy this path 
+C:\Python27\Scripts
+than open cmd and follow me 
+type cd C:\Python27\Scripts
+than type pip install requests 
+i already have it downloaded 
+now u put your list of names in names.txt
+than open geturls.py
+it will automatically put the url to your names like this and save it in urls.txt
+now open code.py and wait till finish and check what names are available to get
+as you can see it checks if the name is taken or available :D
+lets try this
+https://api.mojang.com/users/profiles/minecraft/aperiodically
+available
+this is the ign ( name ) aperiodically
+easy method here we see in namemc 
+https://api.mojang.com/users/profiles/minecraft/aperiodic
+available
+lets see again 
+and lets see what happens if we try a taken name :D
+
+Please Leave a like and subscribe <3 
+
